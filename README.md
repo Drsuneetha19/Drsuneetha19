@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="https://media.giphy.com/media/YOUR-GIF-URL-HERE/giphy.gif" alt="Doctor to Data Wizard GIF" width="400" />
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHWoJE_siaWiw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1706722485460?e=2147483647&v=beta&t=YJKwMu_L7lShdowhk20HdKkdcPALxsoPe9irQTRYyLs" width="400" />
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=drsuneetha19&label=Profile%20views&color=0e75b6&style=flat" alt="drsuneetha19" /> </p>
