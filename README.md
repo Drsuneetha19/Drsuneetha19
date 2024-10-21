@@ -5,7 +5,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=drsuneetha19&label=Profile%20views&color=0e75b6&style=flat" alt="drsuneetha19" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b/](https://www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b/)
+
 
 - ⚡ Fun fact **I traded patient charts for data charts—less messy, still critical. 📊🩺**
 
