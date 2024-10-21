@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drsuneetha19" alt="drsuneetha19" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b](www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b/](https://www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b/)
 
 - ⚡ Fun fact **I traded patient charts for data charts—less messy, still critical. 📊🩺**
 
