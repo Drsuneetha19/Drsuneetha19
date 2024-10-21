@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Dr.Suneetha Mekala</h1>
 <h3 align="center">From stethoscopes to scripts—now diagnosing data 🩺➡️💻</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/68853216/105863796-47337100-6017-11eb-839b-cad86826b144.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drsuneetha19&label=Profile%20views&color=0e75b6&style=flat" alt="drsuneetha19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drsuneetha19" alt="drsuneetha19" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/68853216/105863796-47337100-6017-11eb-839b-cad86826b144.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drsuneetha19&label=Profile%20views&color=0e75b6&style=flat" alt="drsuneetha19" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b/](https://www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b/)
 
