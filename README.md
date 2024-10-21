@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/68853216/105863796-47337100-6017-11eb-839b-cad86826b144.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drsuneetha19&label=Profile%20views&color=0e75b6&style=flat" alt="drsuneetha19" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=drsuneetha19&label=Profile%20views&color=0e75b6&style=flat" alt="drsuneetha19" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b/](https://www.linkedin.com/in/dr-suneetha-mekala-md-mshi-8a06a716b/)
 
